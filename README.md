@@ -1,8 +1,8 @@
 # Hi there, I'm Aklesiya! 👋  
-UI/UX Designer | Full Stack Learner  
+UI/UX Designer | Bck-end Learner  
 
 ## 🌟 About Me  
-I’m currently a learner in the **ALX Backend Web Development program** and also expanding my skills in **front-end development** through **Udemy**. I'm working to **revamp my GitHub profile** to stand out during my job search.
+I’m currently a learner in the **ALX Backend Web Development program** and also expanding my skills in **front-end development**. I'm working to **revamp my GitHub profile** to stand out during my job search.
 
 ### Why I Chose Software Engineering  
 > **I believe technology can bring creativity to life and enhance user experiences through intuitive design.**
