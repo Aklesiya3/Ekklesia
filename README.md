@@ -1,5 +1,5 @@
 # Hi there, I'm Aklesiya! 👋  
-UI/UX Designer | Bck-end Learner  
+UI/UX Designer | Back-end Learner  
 
 ## 🌟 About Me  
 I’m currently a learner in the **ALX Backend Web Development program** and also expanding my skills in **front-end development**. I'm working to **revamp my GitHub profile** to stand out during my job search.
