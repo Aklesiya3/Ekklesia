@@ -1,15 +1,19 @@
 # Hi there, I'm Aklesiya! 👋  
-🚀 Frontend Developer | 🎨 UI/UX Enthusiast | 💡 Problem-Solver  
+UI/UX Designer | Front-End Learner  
 
 ## 🌟 About Me  
-I am a learner of the **ALX Frontend Web Development program**, and I’m working to **revamp my GitHub profile** to make it stand out during my job search.  
+I’m currently a learner in the **ALX Backend Web Development program** and also expanding my skills in **front-end development** through **Udemy**. I'm working to **revamp my GitHub profile** to stand out during my job search.
 
-This is why I started software engineering:  
-> **I believe technology can bring creativity to life and enhance user experiences through intuitive design.**  
+### Why I Chose Software Engineering  
+> **I believe technology can bring creativity to life and enhance user experiences through intuitive design.**
 
-My **passion** lies in **building interactive and visually engaging web applications**, and I’m inspired by the blend of **art, logic, and usability** in modern web design.  
+My **passion** lies in building **interactive and visually engaging web applications**. I’m inspired by the blend of **art, logic, and usability** in modern web design.
 
-💡 My aim is to **design and develop innovative web solutions that are both functional and aesthetically captivating**.  
-That’s why I’d love to **work on projects that integrate UI/UX principles, interactivity, and engaging frontend designs**.  
+My goal is to **design and develop innovative web solutions** that are both **functional** and **aesthetically captivating**.  
+I love working on projects that combine **UI/UX principles**, **interactivity**, and **engaging frontend design**.
+
+
+Let’s connect and create something amazing!
+
 
  
